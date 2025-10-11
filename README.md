@@ -13,7 +13,7 @@ A modern and responsive **Login Page** built with **HTML** and **CSS**, featurin
 
 ## 🖥 Demo
 
-Live demo: [https://farhan-tahir07.github.io/Login-Page/](https://farhan-tahir07.github.io/Login-Page/)
+Live demo: [https://farhan-tahir07.github.io/Login-Page/](https://farhaan-tahir.github.io/Login-Page/)
 
 ## 🛠 Technologies Used
 
